@@ -1,9 +1,9 @@
 # Rest-countries
-Project contains two main parts:
+# Project contains two main parts:
 1.
 For Log in
 Please use credits from Reqres.in api. 
-email :  eve.holt@reqres.in
+# email :  eve.holt@reqres.in
 password :   cityslicka
 
 2. You're directed to Countries Api, where u can learn about world countries.
