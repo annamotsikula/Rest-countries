@@ -1,0 +1,31 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  body{
+    background-image: url('https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+  }
+  .container {
+    border-radius: 5px;
+    background-color:#1e384c5e;
+    margin: 0 auto;
+  }
+ 
+  .form-signin {
+    color: white;
+    font-family: "American Typewriter";
+    font-style: oblique;
+  }
+   
+ 
