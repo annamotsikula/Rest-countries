@@ -1,5 +1,5 @@
 # Rest-countries
-# Project contains two main parts:
+Project contains two main parts: ;
 1.
 For Log in
 Please use credits from Reqres.in api. 
